@@ -5,17 +5,7 @@ import store from './store'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import VueAnalytics from 'vue-analytics'
-import {
-  faChevronDown,
-  faChevronUp,
-  faChevronLeft,
-  faChevronRight,
-  faEnvelope,
-  faMobile,
-  faDesktopAlt,
-  faPlay,
-  faPause
-} from '@fortawesome/pro-light-svg-icons'
+
 import { faGithub, faInstagram, faLinkedin, faTelegramPlane } from '@fortawesome/free-brands-svg-icons'
 
 [
